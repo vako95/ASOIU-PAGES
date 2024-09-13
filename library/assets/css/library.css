@@ -317,7 +317,7 @@ body {
     align-items: flex-start;
 }
 
-.digital__development-library-information-item-list {
+.digital__development-library-information-item {
     width: 100%;
     height: auto;
     display: flex;
@@ -328,14 +328,14 @@ body {
     /* padding-left: 0;  */
 }
 
-.digital__development-library-information-item-list{
+.digital__development-library-information-item{
     width: 100%;
     height: auto;
     border-bottom: 1px solid #D7D7D7;
 
 }
 
-.digital__development-library-information-item-list {
+.digital__development-library-information-item {
     width: 100%;
     height: auto;
     padding: 14px 0;
